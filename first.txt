@@ -1,2 +1,3 @@
 this is my  first push . 
-i belongs to cse department.
+i belongs to computer science dept department.
+
